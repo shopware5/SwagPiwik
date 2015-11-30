@@ -1,0 +1,29 @@
+{
+    "label": {
+        "de": "Piwik - Open Source Webanalyse",
+        "en": "Piwik - Open source web analytics"
+    },
+
+    "copyright": "(c) by Shopware AG",
+    "license": "proprietary",
+    "link": "http://store.shopware.com",
+    "author": "Shopware AG",
+
+    "currentVersion": "1.0.3",
+
+    "changelog": {
+        "de": {
+            "1.0.3": "Behebt Javascript-Fehler"
+        },
+        "en": {
+            "1.0.3": "Fixed javascript error"
+        }
+    },
+
+    "compatibility": {
+        "minimumVersion": "4.1.0",
+        "maximumVersion": null,
+        "blacklist": [
+        ]
+    }
+}
