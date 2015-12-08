@@ -1,5 +1,8 @@
 # SwagPiwik
 
+## Supported versions
+Shopware version 4.1.0 or higher
+
 ## Description
 Use this plugin to seamlessly connect your shop to Piwik, the powerful open source analytics software.
 Piwik is an open source (GPL licensed) web analytics software that can be downloaded for free.
