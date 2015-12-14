@@ -1,7 +1,6 @@
 # SwagPiwik
-
-## Supported versions
-Shopware version 4.1.0 or higher
+> Working with Shopware version 4.1.0 to 5.1.1.
+> Higher versions may work either but were not tested.
 
 ## Description
 Use this plugin to seamlessly connect your shop to Piwik, the powerful open source analytics software.
